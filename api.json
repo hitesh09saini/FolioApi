@@ -82,7 +82,7 @@
         },
         {
             "title": "Tic Tac Toc",
-            "description": "Description for Project 7",
+            "description": "Create a classic Tic-Tac-Toe game using JavaScript, HTML, and CSS. Build the game board, handle player turns, check for wins, and enable restart. A fun project to hone your coding skills and share with friends.",
             "visit": {
                 "url": "https://hitesh09saini.github.io/web-tictactoc/",
                 "button_text": "Play"
